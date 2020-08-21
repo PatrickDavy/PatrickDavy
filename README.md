@@ -44,12 +44,8 @@
 
 ---
 
-<details>
-  <summary>:zap: Github Stats</summary>
-
-  <img align="left" alt="Patrick Davy's Github Stats" src="https://github-readme-stats.vercel.app/api?username=PatrickDavy&show_icons=true&hide_border=true" />
-
-</details>
+<summary>:zap: Github Stats</summary>
+<img align="left" alt="Patrick Davy's Github Stats" src="https://github-readme-stats.vercel.app/api?username=PatrickDavy&show_icons=true&hide_border=true" />
 
 [website]: https://pdavy.com
 [twitter]: https://twitter.com/patrick_davy_
