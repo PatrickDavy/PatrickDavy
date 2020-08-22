@@ -3,7 +3,7 @@
 [![Website](https://img.shields.io/website?label=pdavy.com&style=for-the-badge&url=https%3A%2F%2Fpdavy.com)](https://pdavy.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/patrick_davy_?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fpatrick_davy_&screen_name=patrick_davy_)
 
-## I'm a Developer, Student!
+## I'm a Developer / Student!
 
 - 🔭 I’m currently working on a Chrome extension!
 - 🌱 I’m currently learning anything and everything 🤣
