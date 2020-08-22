@@ -14,7 +14,6 @@
 ### Connect with me:
 
 [<img align="left" alt="pdavy.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-
 [<img align="left" alt="@patrick_davy_ | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Patrick Davy | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="patrick.f.davy | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
@@ -22,6 +21,13 @@
 <br />
 
 ### Languages and Tools:
+
+<img align="left" alt="Java" width="26px" src="https://e7.pngegg.com/pngimages/396/878/png-clipart-java-development-kit-programmer-java-runtime-environment-programming-language-java-orange-logo.png" />
+<img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" />
+<img align="left" alt="C" width="26px" src="https://f0.pngfuel.com/png/120/705/c-logo-png-clip-art.png" />
+<img align="left" alt="PyCharm" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/PyCharm_Logo.svg/1024px-PyCharm_Logo.svg.png" />
+<img align="left" alt="clion" width="26px" src="https://cdn.worldvectorlogo.com/logos/clion-1.svg" />
+<img align="left" alt="Webstorm" width="26px" src="https://f0.pngfuel.com/png/334/756/black-and-white-ws-logo-png-clip-art.png" />
 <img align="left" alt="IntelliJ" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/IntelliJ_IDEA_Logo.svg/1024px-IntelliJ_IDEA_Logo.svg.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
