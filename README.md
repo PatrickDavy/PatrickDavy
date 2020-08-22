@@ -43,7 +43,7 @@
 
 <summary>:zap: Github Stats</summary>
 <img align="left" alt="Patrick Davy's Github Stats" src="https://github-readme-stats.vercel.app/api?username=PatrickDavy&show_icons=true&hide_border=true&theme=radical&include_all_commits=true" />
-<br />
+
 <img align="left" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PatrickDavy&layout=compact&theme=radical" />
 
 [website]: https://pdavy.com
