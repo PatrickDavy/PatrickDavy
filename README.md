@@ -27,7 +27,7 @@
 <img align="left" alt="C" width="26px" src="https://f0.pngfuel.com/png/120/705/c-logo-png-clip-art.png" />
 <img align="left" alt="PyCharm" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/PyCharm_Logo.svg/1024px-PyCharm_Logo.svg.png" />
 <img align="left" alt="clion" width="26px" src="https://cdn.worldvectorlogo.com/logos/clion-1.svg" />
-<img align="left" alt="Webstorm" width="26px" src="https://f0.pngfuel.com/png/334/756/black-and-white-ws-logo-png-clip-art.png" />
+<img align="left" alt="Webstorm" width="26px" src="https://seeklogo.com/images/W/webstorm-logo-691E749F21-seeklogo.com.png" />
 <img align="left" alt="IntelliJ" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/IntelliJ_IDEA_Logo.svg/1024px-IntelliJ_IDEA_Logo.svg.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
