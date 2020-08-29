@@ -5,8 +5,8 @@
 
 ## I'm a Developer / Student!
 
-- 🔭 I’m currently working on a Chrome extension!
-- 🌱 I’m currently learning anything and everything 🤣
+- 🔭 I’m currently working on a [Chrome extension](https://github.com/PatrickDavy/New-Tab-Extension)!
+- 🌱 I’m currently learning how to develop an API 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects while finishing my degree
 - ⚡ Fun fact: I love to Snowboard and compete in my hill climb rally car
